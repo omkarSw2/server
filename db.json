@@ -1,0 +1,168 @@
+{
+  "admin": [
+    {
+      "name": "admin",
+      "pass": "admin"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "confirmPassword": "omkarcoder",
+      "dateOfBirth": "2000-03-11",
+      "email": "omkar@gmail.com",
+      "firstName": "omkar",
+      "lastName": "walvalakr",
+      "password": "omkarcoder",
+      "phone": "9986062050",
+      "userName": "omkar@1134"
+    }
+  ],
+  "sevices": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1589758438368-0ad531db3366?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "description": ["Get free Credit Card with limit of ₹100,000.  "],
+      "title": "Credit Cards ",
+      "Path": "/creditcard",
+      "servicetitle": [
+        {
+          "id": 1,
+          "title": "Check your credit score",
+          "description": "Before applying for a credit card, you should check your credit score to see if you meet the minimum requirements for the card you want. You can check your credit score for free on websites like Credit Karma or Credit Sesame."
+        },
+        {
+          "id": 2,
+          "title": "Choose a credit card",
+          "description": "Once you have researched and compared different credit cards, choose the one that best fits your needs and apply for it."
+        },
+        {
+          "id": 3,
+          "title": "Fill out the application",
+          "description": "To apply for a credit card, you will need to fill out an application. You can either do this online or by mail. Be prepared to provide your personal information, such as your name, address, social security number, and income."
+        },
+        {
+          "id": 4,
+          "title": "Submit the application",
+          "description": "To apply for a credit card, you will need to fill out an application. You can either do this online or by mail. Be prepared to provide your personal information, such as your name, address, social security number, and income."
+        },
+        {
+          "id": 5,
+          "title": "Activate your credit card",
+          "description": "Once you receive your credit card in the mail, you will need to activate it before you can start using it. This can usually be done online or by phone"
+        },
+        {
+          "id": 6,
+          "title": "Start using your credit card",
+          "description": "After you have activated your credit card, you can start using it to make purchases. Remember to make payments on time and keep your balance low to maintain good credit"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1565371767810-ef913a6c8315?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "description": [
+        "Get quick loan approval.",
+        " limit of ₹100,000.",
+        " Use it without interest for up to 160 days."
+      ],
+      "title": "Cash Loans ",
+      "Path": "/cashloan",
+      "servicetitle": [
+        {
+          "id": 1,
+          "title": "Check your credit score",
+          "description": "Before applying for a loan, check your credit score and make sure it is in good standing. The higher your credit score, the better your chances of being approved for a loan."
+        },
+        {
+          "id": 2,
+          "title": "Research your options",
+          "description": "Research different types of loans and lenders to find the best option for your needs. Look for lenders that offer cash loans with reasonable interest rates and terms."
+        },
+        {
+          "id": 3,
+          "title": "Gather the required documents",
+          "description": " Most lenders will require proof of income, such as recent pay stubs or tax returns, as well as identification and proof of residency."
+        },
+        {
+          "id": 4,
+          "title": "Apply for the loan",
+          "description": "You can apply for a loan online or in-person at a bank branch. Be sure to fill out the application completely and accurately, and provide all required documentation."
+        },
+        {
+          "id": 5,
+          "title": "Wait for approval",
+          "description": "It can take a few days or longer for your loan application to be approved. Be patient and be prepared to provide additional information if requested by the lender."
+        },
+        {
+          "id": 6,
+          "title": "Receive the funds",
+          "description": "If your loan is approved, the lender will typically transfer the funds to your bank account or give you a check. Be sure to read the loan agreement carefully and understand the terms and conditions before accepting the funds."
+        },
+        {
+          "id": 7,
+          "title": "Repay the loan",
+          "description": "Make timely payments on the loan according to the terms of the agreement to avoid late fees and damage to your credit score."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://images.moneycontrol.com/static-mcnews/2022/10/CASHBACK-SBI-Card.jpg",
+      "description": ["Up to 30% cashback on purchases."],
+      "title": "Cashback cards",
+      "Path": "/cashbackcards",
+      "servicetitle": [
+        {
+          "id": 1,
+          "title": "Check your credit score",
+          "description": "Before applying for a loan, check your credit score and make sure it is in good standing. The higher your credit score, the better your chances of being approved for a loan."
+        },
+        {
+          "id": 2,
+          "title": "Research your options",
+          "description": "Research different types of loans and lenders to find the best option for your needs. Look for lenders that offer cash loans with reasonable interest rates and terms."
+        },
+        {
+          "id": 3,
+          "title": "Gather the required documents",
+          "description": " Most lenders will require proof of income, such as recent pay stubs or tax returns, as well as identification and proof of residency."
+        },
+        {
+          "id": 4,
+          "title": "Apply for the loan",
+          "description": "You can apply for a loan online or in-person at a bank branch. Be sure to fill out the application completely and accurately, and provide all required documentation."
+        },
+        {
+          "id": 5,
+          "title": "Wait for approval",
+          "description": "It can take a few days or longer for your loan application to be approved. Be patient and be prepared to provide additional information if requested by the lender."
+        },
+        {
+          "id": 6,
+          "title": "Receive the funds",
+          "description": "If your loan is approved, the lender will typically transfer the funds to your bank account or give you a check. Be sure to read the loan agreement carefully and understand the terms and conditions before accepting the funds."
+        },
+        {
+          "id": 7,
+          "title": "Repay the loan",
+          "description": "Make timely payments on the loan according to the terms of the agreement to avoid late fees and damage to your credit score."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://s31898.pcdn.co/wp-content/uploads/2022/07/upi-image-2-800x430.jpg",
+      "description": [" Get Registration of the UPI at lower price  ."],
+      "title": "UPI Activation",
+      "Path": "/upiactivation"
+    },
+    {
+      "id": 5,
+      "image": "https://www.shutterstock.com/image-illustration/chart-rising-interest-rates-percentages-600w-2115606887.jpg",
+      "description": ["High interest deposit Profitable get up to 12%  ."],
+      "title": "High Intrest on Deposit",
+      "Path": "/intreastrate"
+    }
+  ]
+}
