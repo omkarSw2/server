@@ -2,6 +2,7 @@
   "data": [
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "28k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1996777/2022/11/22/336445a8-fa32-4396-914a-2629b49465d31669112704759RoadsterMenBlackCottonPureCottonT-shirt1.jpg",
@@ -18,6 +19,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "2.7k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11999496/2020/7/9/28147c07-9cec-4754-9226-ade4fc7908631594292867204-HRX-by-Hrithik-Roshan-Men-Tshirts-1821594292865503-1.jpg",
@@ -34,6 +36,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "20.7k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
@@ -50,6 +53,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.5,
       "reviews": "121",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14615524/2021/7/13/bc8cd884-502d-4ca4-bc6c-3b9264c8522b1626176313913-Park-Avenue-Men-Tshirts-1081626176313406-1.jpg",
@@ -66,6 +70,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "57.8k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
@@ -82,6 +87,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.4,
       "reviews": "198",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21936196/2023/2/28/53719aaf-933a-421a-8099-7b726df5e0ac1677585049512-Louis-Philippe-Sport-Men-Tshirts-9261677585049075-1.jpg",
@@ -98,6 +104,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "4.3k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2499214/2018/5/23/3569f170-1967-46ab-9ae0-6442737f609d1527063527383-Roadster-Men-White-Printed-Round-Neck-T-shirt-4261527063525890-1.jpg",
@@ -114,6 +121,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.5,
       "reviews": "180",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740918/2022/7/15/0b8e0251-f8e3-46bf-944f-af8e4f1918611657863950931-ADIDAS-Men-Tshirts-6671657863950387-1.jpg",
@@ -130,6 +138,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "12",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16191096/2023/5/4/607c08d2-4013-4808-b076-7e58e91e263d1683192268759-Mr-Bowerbird-Men-Tshirts-5941683192268346-1.jpg",
@@ -146,6 +155,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "11.6k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9901805/2019/7/16/8139e933-b2a1-4d35-8a9f-d01cf3e1ace81563256634726-Roadster-Men-Tshirts-5541563256633223-1.jpg",
@@ -162,6 +172,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.4,
       "reviews": "29",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21086778/2022/12/14/badacae6-2881-44c4-a64e-8ea6d26ca9381671006517158-Calvin-Klein-Jeans-Men-Tshirts-511671006516703-1.jpg",
@@ -178,6 +189,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.6,
       "reviews": "996",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047670/2023/6/13/f55d15c1-11dc-4e7b-871c-03512efa4e251686659554597LouisPhilippeMenTealGreenPoloCollarT-shirt1.jpg",
@@ -194,6 +206,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "3.8k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1197830/2022/4/18/b5bcac65-8b98-4222-b99c-6b50f35083691650285002017ETHERBlackPureCottonT-shirt1.jpg",
@@ -210,6 +223,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "2.1k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13552828/2023/1/11/21404cf9-1da0-4184-8fe7-efe4a153a7cc1673429139873-Bewakoof-Men-White-Pure-Cotton-T-shirt-4601673429139210-1.jpg",
@@ -226,6 +240,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "157",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21670020/2023/1/23/7c56075c-b91c-41a3-bece-7595ca85536c1674474434736RedTapeSageGreenSolid100CottonPoloNeckMensT-Shirt1.jpg",
@@ -242,6 +257,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "774",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11930110/2020/6/30/ffa0125d-6d56-4932-ab4e-c1c0f51a46031593514361907-HRX-by-Hrithik-Roshan-Men-Tshirts-9031593514359724-1.jpg",
@@ -258,6 +274,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.5,
       "reviews": "20",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22119404/2023/2/24/e9b81647-36bc-46b4-8e56-74d2fe8e4d5c1677258033232Tshirts1.jpg",
@@ -274,6 +291,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 3.4,
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22477438/2023/4/1/e4176c6f-1aa1-4a65-8172-fb6b147989b51680337792059-Puma-x-Royal-Challengers-Bangalore-Arcade-Printed-Pure-Cotto-1.jpg",
@@ -290,6 +308,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "98",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22015728/2023/3/11/667197ce-d4c5-46f5-96ce-7422c5665a651678518664198-Levis-Men-Tshirts-2091678518663666-1.jpg",
@@ -306,6 +325,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 3.8,
       "reviews": "25",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21086544/2022/12/15/92b4ce29-6b01-46da-aa29-14c8f2827ae61671088814419-Calvin-Klein-Jeans-Men-Tshirts-2101671088813829-1.jpg",
@@ -322,6 +342,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21775870/2023/5/3/6157ddde-f82c-4591-b2c1-1bca9bf62b0b1683115137631-HERENOW-Men-Tshirts-3291683115137224-1.jpg",
@@ -338,6 +359,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "126",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18744968/2023/1/5/8d2f811b-3aa0-4cc9-a2f4-6e3a601349001672909438522-The-Souled-Store-Men-Lavender-Solid-Round-Neck-Oversized-T-S-4.jpg",
@@ -354,6 +376,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "39",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19381860/2022/8/4/d54ef996-3f4d-4d2c-b104-f80c985a07291659602775883Tshirts1.jpg",
@@ -370,6 +393,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.3,
       "reviews": "5k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20428700/2022/12/6/2a1176a9-3e9f-41ed-8769-e9995d94d2e01670325013946-Levis-Men-Blue-Slim-Fit-Light-Fade-Stretchable-Jeans-1616703-1.jpg",
@@ -386,6 +410,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4,
       "reviews": "4.5k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1847682/2017/6/22/11498108844188-HRX-by-Hrithik-Roshan-Men-Black-Active-Track-Pants-3791498108843868-1.jpg",
@@ -402,6 +427,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "682",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1352998/2016/8/31/11472645521752-Roadster-Men-Charcoal-Regular-Fit-Washed-Casual-Shirt-1861472645521489-1.jpg",
@@ -418,6 +444,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4,
       "reviews": "2.1k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14063040/2023/3/29/4691d615-bd1b-4a80-9397-00d03de3e4fb1680071871827-HIGHLANDER-Men-Black-Tapered-Fit-Jeans-3141680071871289-1.jpg",
@@ -434,6 +461,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.1,
       "reviews": "171",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/11/28/0f783d0f-3e28-406a-9ce5-f620e1106a3a1574964844659-1.jpg",
@@ -450,6 +478,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "187",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18371366/2022/5/21/fc21bd07-2a96-434b-8cbd-42ad4d99ff751653142394613HIGHLANDERMenGreenPrintedPoloCollarSlimFitT-shirt1.jpg",
@@ -466,6 +495,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.1,
       "reviews": "235",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14637754/2021/11/3/81c94992-73a1-46e6-b960-5a9868adcf9e1635937627410-Roadster-Men-Jeans-9351635937626669-1.jpg",
@@ -482,6 +512,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.3,
       "reviews": "1.5k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18074840/2022/8/29/94d3b74b-88d4-44ab-946a-94be7b8cba201661751549579-Levis-Men-Jeans-6601661751549028-1.jpg",
@@ -498,6 +529,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "1.8k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19694418/2022/9/26/4cb24ca9-9749-4e84-8925-e00a41852fcc1664187612034HIGHLANDERMenWhiteSlimFitCasualShirt1.jpg",
@@ -514,6 +546,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4,
       "reviews": "6",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1729342/2017/2/23/11487840387550-WROGN-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Jeans-7001487840387274-1.jpg",
@@ -530,6 +563,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.8,
       "reviews": "3.9k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23049386/2023/5/6/7edc88f2-90e2-4ccc-ba5e-d6d3a6602cdc1683313909638PUMAGraphicMensT-Shirt1.jpg",
@@ -546,6 +580,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 3.8,
       "reviews": "47",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2429191/2020/12/9/f8eb46ca-017c-4e7e-94b0-1a5481d62c5f1607493621909-HIGHLANDER-Men-Black--Charcoal-Grey-Slim-Fit-Printed-Casual--1.jpg",
@@ -562,6 +597,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4,
       "reviews": "362",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20223510/2022/10/4/8bfdc3a6-c989-4946-a0b3-b377c3cded371664883389998-The-Indian-Garage-Co-Men-Jeans-1661664883389410-1.jpg",
@@ -578,6 +614,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.3,
       "reviews": "6.2k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12848630/2020/11/21/40885ddd-15d1-4441-bb8f-9269e86b376e1605953086018-Louis-Philippe-Jeans-Men-Shirts-7041605953084080-1.jpg",
@@ -594,6 +631,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "1.1k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/2/6/1a340c1e-d6e0-4430-8b35-717ba5426f511580945402271-1.jpg",
@@ -610,6 +648,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 3.7,
       "reviews": "25",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5669112/2018/6/12/17991d96-36de-423e-b94c-1c2a411649a61528799146938-Roadster-Men-Jeans-6791528799146821-1.jpg",
@@ -626,6 +665,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.4,
       "reviews": "435",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22256898/2023/3/8/0a3cfe05-a0f5-4b87-97cd-ec61cfd46e6f1678264675924RegularFitLinen-mixtrousers1.jpg",
@@ -642,6 +682,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "524",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14950628/2021/8/17/52042b1d-42d7-4f37-bcbd-cf2126af56521629200312483TBH-GLORY-BR1.jpg",
@@ -658,6 +699,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.2,
       "reviews": "185",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18074932/2022/8/22/76f8bda3-d95e-444b-bbac-d4899cbf4ecd1661161700624-Levis-Men-Jeans-6501661161699966-1.jpg",
@@ -674,6 +716,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.5,
       "reviews": "178",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15199656/2021/8/19/805674b8-c37c-4672-b070-ab2ca22c67e21629367803696Kurtas1.jpg",
@@ -690,6 +733,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "350",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16342298/2022/1/19/c9721386-cd0b-40a3-a19a-e2c881a659541642584700784-US-Polo-Assn-Men-Green--Red-Checked-Tailored-Fit-Pure-Cotton-1.jpg",
@@ -706,6 +750,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "1.1k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13842352/2022/9/26/294c7bee-fd7d-49a0-9284-86cb44ad8a9c1664184891603HIGHLANDERMenYellowPrintedRoundNeckT-shirt1.jpg",
@@ -722,6 +767,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "1.7k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14547782/2021/7/2/dd8e08ed-ca85-4d1f-abd0-393b52dfe26c1625206210621-HERENOW-Men-Shirts-2091625206210249-1.jpg",
@@ -738,6 +784,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 3.8,
       "reviews": "1.4k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10307603/2019/11/7/0a87f076-48cb-4d93-b01c-55c589718da71573110431222-Roadster-Men-Tshirts-1051573110428886-1.jpg",
@@ -754,6 +801,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 3.7,
       "reviews": "1.2k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7330636/2022/8/26/764315ad-0120-406a-b3b6-359d110c77481661494867076-Mast--Harbour-Men-Blue-Skinny-Fit-Light-Fade-Stretchable-Jea-1.jpg",
@@ -770,6 +818,7 @@
     },
     {
       "type": "male",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "19",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2503507/2018/4/23/11524479488419-Roadster-Men-Shirts-4161524479488253-1.jpg",
@@ -786,6 +835,7 @@
     },
     {
       "type": "male",
+      "category": "bottom_ware",
       "ratings": 4.5,
       "reviews": "518",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22464140/2023/5/2/5d0a5d3e-52b5-4895-8f62-a402c76280de1683006528519-Levis-Men-Mid-Rise-Light-Fade-Stretchable-Jeans-733168300652-1.jpg",
@@ -802,6 +852,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "717",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19524872/2022/8/17/51bb00c4-d949-4c12-8be7-c19b44cc0dab1660715207046QOMNCoralPrintMandarinCollarTop1.jpg",
@@ -818,6 +869,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.4,
       "reviews": "3.6k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/24/f126b57a-7cc8-4b1d-a375-a13c606875151563943726386-1.jpg",
@@ -834,6 +886,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "28",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9867983/2019/5/31/43d65352-9853-498e-95a4-be514df0be901559294212152-Vishudh--Straight-Kurta-With-Crop-Palazzo-7041559294209627-1.jpg",
@@ -848,24 +901,10 @@
       "isNew": false,
       "assured": true
     },
+
     {
       "type": "women",
-      "ratings": 3.9,
-      "reviews": "307",
-      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22764208/2023/4/14/85f7e18d-54c5-4012-bf68-6ba2eae2ba541681411698392Bra1.jpg",
-      "brand": "COLOR STYLE",
-      "title": "Lightly Padded Stick-On Bra",
-      "gender": "women",
-      "size": "32A",
-      "discountprice": 599,
-      "price": 999,
-      "discountPercentage": "(40% OFF)",
-      "id": 54,
-      "isNew": false,
-      "assured": false
-    },
-    {
-      "type": "women",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "84",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21419334/2023/1/5/c2cbd598-9a7d-4582-81cb-660be71c89ce1672891249303KIBOWomensSquareNeckRedFloralPrintSmokedTop1.jpg",
@@ -882,6 +921,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.4,
       "reviews": "318",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18122566/2022/5/16/5018671f-d3bf-416f-ae7b-5d55b0bb4b031652697858394-GERUA-Women-Kurtas-1571652697857840-1.jpg",
@@ -898,6 +938,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 3.9,
       "reviews": "1.4k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19691808/2022/8/27/1f24213f-562c-4ba9-b282-f7fdd32b8fdb1661602576405DreamBeautyFashionWomenBlackSlimFitTrousers1.jpg",
@@ -914,6 +955,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 3.9,
       "reviews": "785",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13237744/2021/2/22/05bafbb8-b5ad-45d3-a982-0e453419504a1613990377973-Anouk-Women-Purple-Solid-Kurta-with-Trousers-996161399037619-7.jpg",
@@ -930,6 +972,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "1.9k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19909278/2022/9/10/b6b29d9b-aaed-435a-a147-4d9450c315081662824872832SHEETALAssociatesBlackGeorgetteDress1.jpg",
@@ -946,6 +989,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 4.1,
       "reviews": "325",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6995097/2022/8/30/e44592ea-656a-4da4-a5a5-fad227e0c5781661862426325-Roadster-Women-Navy-Skinny-Fit-Mid-Rise-Clean-Look-Stretchab-1.jpg",
@@ -962,6 +1006,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 3.9,
       "reviews": "7",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21490552/2023/3/2/d06047f4-4ad3-4f5f-80f2-6b9a36e1d8541677748179264-Fabflee-Floral-Georgette-A-Line-Midi-Dress-411677748178587-1.jpg",
@@ -978,6 +1023,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 3.3,
       "reviews": "5.6k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23180218/2023/5/15/e9666af7-0a18-4199-9d56-f57200660fe41684130956890FabindiaWomenWhitePleatedTrousers1.jpg",
@@ -994,6 +1040,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "546",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14226530/2022/2/4/d65f5a27-1fcf-44a8-9db6-e4912e57b5381643937539870NayoWomenBlueFloralPureCottonKurtawithTrousersWithDupatta1.jpg",
@@ -1010,6 +1057,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "141",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18544290/2022/6/6/33ab2cb3-9dc3-4243-80a2-27047008861f1654516932395-varanga-mauve--embroidered-kurta-with-straight-pant-and-dupa-1.jpg",
@@ -1026,6 +1074,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 4.5,
       "reviews": "2.2k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17185076/2022/3/14/c52eb0fb-ddf0-42c7-9f0b-f03d8dd05f971647249459921WomenCottonBlackKurtapantdupattasetJeansMarksSpencerWomenJeg1.jpg",
@@ -1042,6 +1091,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 4.5,
       "reviews": "137",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2488707/2018/7/5/fa0a5f18-47b1-426e-9f12-4a0bfc46088b1530774041515-HRX-by-Hrithik-Roshan-Women-Black-Printed-Three-Fourth-Lengt-1.jpg",
@@ -1058,6 +1108,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.4,
       "reviews": "277",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20478306/2022/11/7/37053e91-6dff-4e2a-ae0a-fd42656fa5621667816529289-Libas-Women-Kurta-Sets-6901667816528024-1.jpg",
@@ -1074,6 +1125,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "103",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13238118/2021/8/2/db72849c-863e-4f1a-89f2-76b2647d292c1627895069317-Anouk-Women-Blue-Floral-Printed-Floral-Anarkali-Kurta-231627-1.jpg",
@@ -1090,6 +1142,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 3,
       "reviews": "388",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22430006/2023/3/20/e61c08c3-e3f7-4ce9-b8de-4634eb3330181679295663151KaliniWomensCrepeBeigeColorDigitalPrintStraightKurtaWithPant1.jpg",
@@ -1106,6 +1159,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "122",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19790964/2022/9/6/04687acc-a85f-48a8-bb3e-f0c3922deee41662459680433VishudhWomenPinkEthnicMotifsPrintedFlaredSleevesKurta1.jpg",
@@ -1122,6 +1176,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4,
       "reviews": "348",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21648538/2023/1/20/a275ceda-d01b-4b62-9a5c-feee4cd6e31a1674226543328KurtaSets1.jpg",
@@ -1138,6 +1193,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "891",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18276854/2022/6/23/cc508e60-9cf6-4ae8-af0d-9bf8dde537e91655973589823-Nayo-Women-Black-Ikat-Printed-Pure-Cotton-Kurta-with-Trouser-1.jpg",
@@ -1154,6 +1210,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 4.1,
       "reviews": "1k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18228320/2022/6/13/88ea170a-ff98-4875-918f-5dc313bf6c731655102850566-HRX-by-Hrithik-Roshan-Womens-Grey-Melange-Fashion-Joggers-41-1.jpg",
@@ -1170,6 +1227,7 @@
     },
     {
       "type": "women",
+      "category": "bottom_ware",
       "ratings": 4.3,
       "reviews": "140",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16990002/2022/2/14/107c0057-a385-4d64-8456-5f256fdc9e571644837259883-SASSAFRAS-Women-Jeans-7881644837259235-1.jpg",
@@ -1186,6 +1244,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.3,
       "reviews": "11.8k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20838310/2022/11/24/54bf6cf9-0ed8-449d-86b4-f9f25f720d6a1669293323112-Yellow-Bandhani-Printed-and-Embroidered-Rayon-Kurta-18116692-1.jpg",
@@ -1200,24 +1259,10 @@
       "isNew": false,
       "assured": true
     },
+
     {
       "type": "women",
-      "ratings": 4.2,
-      "reviews": "270",
-      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2298964/2017/12/1/11512108422138-Zivame-Lightly-Padded-Underwired-Bra--Bright-Red-561512108422036-1.jpg",
-      "brand": "Zivame",
-      "title": "Lightly Padded T-shirt Bra",
-      "gender": "women",
-      "size": "32B",
-      "discountprice": 449,
-      "price": 749,
-      "discountPercentage": "(40% OFF)",
-      "id": 76,
-      "isNew": false,
-      "assured": true
-    },
-    {
-      "type": "women",
+      "category": "top_ware",
       "ratings": 3.2,
       "reviews": "385",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21523884/2023/1/13/de57d9d0-2caa-4721-bd27-e23c56754ef71673587399058KALINIWomenMulticolouredGeometricPrintedCold-ShoulderSleeves1.jpg",
@@ -1234,6 +1279,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.2,
       "reviews": "120",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19210174/2022/7/25/cea71927-b119-4c25-b29a-188ce91462591658733863313-varanga-pink-lehariya-printed-anarkali-emroidered-kurta-9191-1.jpg",
@@ -1250,6 +1296,7 @@
     },
     {
       "type": "women",
+      "category": "top_ware",
       "ratings": 4.1,
       "reviews": "495",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19370536/2022/8/3/b248e501-f5fe-4dff-8860-124dec5ac9bf1659523632306KurtaSets1.jpg",
@@ -1266,6 +1313,7 @@
     },
     {
       "ratings": 4.5,
+      "category": "top_ware",
       "reviews": "12",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20331474/2022/10/17/8d4f8707-372e-4875-bae2-7a280c4552291665987879787-KASSUALLY-Black-Solid-Basic-Jumpsuit-5731665987879175-1.jpg",
       "brand": "KASSUALLY",
@@ -1281,6 +1329,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": 4.6,
       "reviews": "21",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20826356/2022/11/19/84025046-813c-4570-971e-b591ff5c9de11668851711450Jeans1.jpg",
@@ -1297,6 +1346,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 3.9,
       "reviews": "8",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18208462/2022/9/30/c6dc0fe8-0df2-40d9-929e-880e2a4bfbe51664513296501-HRX-by-Hrithik-Roshan-Boys-Jackets-2211664513295952-1.jpg",
@@ -1313,6 +1363,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 4.8,
       "reviews": "3",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20089502/2022/9/20/46a2215a-0fa0-4af9-86c0-b5baf3dbb33f1663665740968KinseyBoysDisneyMickeyPackofTwoLongSleeveTshirts1.jpg",
@@ -1329,6 +1380,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 5,
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22340710/2023/3/15/a6ddc7e8-f763-4382-826a-e4afe7daf0fa1678900110121Rompers1.jpg",
@@ -1345,6 +1397,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 4.7,
       "reviews": "19",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23343962/2023/5/23/4683ef6b-4b78-455c-9faf-01b4ea8238281684830124091maxBoysBlueTypographyPrintedT-shirt1.jpg",
@@ -1361,6 +1414,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 4.6,
       "reviews": "58",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20089516/2022/9/20/05c412e7-60ef-4860-adc2-b7178a70ec971663667467430KinseyBoysDisneyMickeyLongSleeveTshirts1.jpg",
@@ -1377,6 +1431,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": 4.1,
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18485382/2022/6/4/b9715cd3-2fef-48da-b924-66766dca3f311654343094215HELLCATBoysPackOf3SolidTrackPants1.jpg",
@@ -1393,6 +1448,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 4.8,
       "reviews": "45",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22816724/2023/4/19/55af07e1-731d-4e30-a299-4b90b54ae32f1681882585164NinosDreamsBoysCottonCoordSetwithShorts-PlanetPrint1.jpg",
@@ -1409,6 +1465,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": 4.7,
       "reviews": "99",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22436620/2023/3/20/12700d98-3090-43ee-b1fc-cdc6e271a9881679311189640maxBoysNavyBlueTypographyPrintedT-shirt1.jpg",
@@ -1425,6 +1482,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "20",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22447296/2023/3/21/5bb35c1e-b92b-48f8-9817-77b8e510b81e1679376197177Cottonpiqupoloshirt1.jpg",
@@ -1441,6 +1499,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.9",
       "reviews": "7",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17493476/2022/3/11/62512cf3-89b7-43bc-b56b-bab82e05791d1647011527111JackJonesBoysBlueJeans1.jpg",
@@ -1457,6 +1516,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.7",
       "reviews": "40",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17038588/2022/8/8/f1a65fe5-fd15-41e9-8a24-85e150e2a2521659958824131-US-Polo-Assn-Kids-Boys-Black-Solid-Pure-Cotton-Knitted-Jogge-1.jpg",
@@ -1473,6 +1533,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "1000",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22974700/2023/5/2/00b29ef3-64f5-451b-8992-d93c1880443d1683019326737UrbanoJuniorsBoysBlueSlimFitLowDistressStretchableJeans1.jpg",
@@ -1489,6 +1550,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.4",
       "reviews": "79",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20860032/2022/11/22/b480299f-0a55-424c-8e9d-f37e463bd49a1669116343300CltsUnisexKidsPinkWhitePrintedNightsuit1.jpg",
@@ -1505,6 +1567,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "1000",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18002306/2022/4/23/93f5f1d3-b6ab-4c3b-b1d4-9c56fb2e8f591650689050793TrackPants1.jpg",
@@ -1521,6 +1584,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "1000",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19770150/2022/9/3/7f34423b-2e15-4fd7-b4a2-4dc60768ba901662206818804PantaloonsJuniorBoysGreyShorts1.jpg",
@@ -1537,6 +1601,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "3.8",
       "reviews": "28",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/16/267bd7fb-d053-4594-af0b-26bc84d07b4a1618587306595-1.jpg",
@@ -1553,6 +1618,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.6",
       "reviews": "74",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20042000/2022/9/17/7c3883fc-477b-418f-924d-dba7a677fe1b1663390531983PantaloonsJuniorBoysYellowStripedPoloCollarT-shirt1.jpg",
@@ -1569,6 +1635,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.4",
       "reviews": "7",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20726256/2022/11/12/ba908473-4445-4e04-98dd-f1be4b1e00081668232231693TrackPants1.jpg",
@@ -1585,6 +1652,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "1000",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21117822/2022/12/29/408dae60-e615-4126-a54d-61d31f85aefa1672315021362-Tommy-Hilfiger-Boys-Shorts-6611672315020971-1.jpg",
@@ -1601,6 +1669,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.4",
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17824220/2022/4/8/57899623-580a-46a4-acdf-3ac20421f7461649425720467JackJonesBoysGreenTartanChecksCheckedCasualShirt1.jpg",
@@ -1617,6 +1686,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.1",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19387238/2022/8/4/47fdb7b8-247a-4b9d-aa1b-8abf65a2424e1659616655991HenryGraphicPrintedT-Shirt1.jpg",
@@ -1633,6 +1703,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "8",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21460856/2023/1/7/98e1dcf8-f9e3-4472-8393-b6b8f13addaa1673113503440Ribbedvelourrompersuit1.jpg",
@@ -1649,6 +1720,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "5",
       "reviews": "1000",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23098462/2023/6/13/9e7fa172-5dbe-412c-a035-7a00ebe8ba151686636523754-Aj-DEZInES-Boys-Shirt-with-Checked-Shorts-5251686636523262-1.jpg",
@@ -1665,6 +1737,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "6",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21687970/2023/1/24/354be9c4-4628-4de9-9dcb-316509bcef0e1674559138576Shorts1.jpg",
@@ -1681,6 +1754,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22436964/2023/3/20/1cf1b5d8-f02a-4918-8216-4374895a6f2d1679315889740maxBoysGreenCamouflagePrintedCargoShorts1.jpg",
@@ -1697,6 +1771,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.4",
       "reviews": "8",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18918560/2022/10/3/5ebed177-6d4c-4e53-ae5d-8ec20254bb3d1664770323142-US-Polo-Assn-Kids-Boys-Mustard-Yellow-Solid-Pure-Cotton-T-sh-1.jpg",
@@ -1713,6 +1788,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.7",
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18002310/2022/4/23/6f9a6a04-3d1f-4c6c-a733-ad58bab3aaa21650687699681JackJonesBoysBlackStripedTrousers1.jpg",
@@ -1729,6 +1805,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22031942/2023/2/18/01481092-e227-406c-91db-e9f6ca6d18bb1676694492897PantaloonsJuniorBoysBlueTaperedFitJeans1.jpg",
@@ -1745,6 +1822,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18970684/2023/4/25/d763e479-b140-455a-91cf-daf880addb5d1682421509784-Tommy-Hilfiger-Boys-Pure-Cotton-Micro-Checks-Opaque-Checked--1.jpg",
@@ -1761,6 +1839,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "46",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21717002/2023/1/27/fff5b43e-3cac-45bf-a3c3-09fca9e886e71674817519584x2oCottonpajamapantswithfunalloverprintsforKidsgreen0-3Month1.jpg",
@@ -1777,6 +1856,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23495416/2023/5/31/6d75f30f-c63e-4893-829a-8afe751a651c16855536800403-packT-shirts1.jpg",
@@ -1793,6 +1873,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "6",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21609290/2023/1/19/e6b40ef7-591b-4827-ae1c-ff7547126e0416740914483312-piecesweatshirtset1.jpg",
@@ -1809,6 +1890,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.7",
       "reviews": "18",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20634636/2022/11/29/e28f9b64-661b-4cdb-b19a-c760408b1c611669710933652-Urbano-Juniors-Boys-Light-Grey-Slim-Fit-Washed-Denim-Jogger--1.jpg",
@@ -1825,6 +1907,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4",
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21516710/2023/1/12/8df0edd2-0f1d-4ee1-93a2-c422d5c97d051673505885250Trousers1.jpg",
@@ -1841,6 +1924,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22224276/2023/3/4/95c0429f-6638-495e-bb53-32dd70e5ca121677890435255PepeJeansBoysGreenPoloCollarAppliqueT-shirt1.jpg",
@@ -1857,6 +1941,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23022174/2023/5/9/8276c7ad-c800-4850-a714-80bf3fb3b1cf1683624142875-HERENOW-Boys-Tshirts-2711683624142680-1.jpg",
@@ -1873,6 +1958,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "53",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17116680/2023/5/18/2f6a78cc-6506-454b-9797-18e1fb0c4d411684399609845NauticaBoysTurquoiseBlueWhiteConversationalPrintRoundNeckPur1.jpg",
@@ -1889,6 +1975,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23047592/2023/5/6/1c38faa4-ed7d-454d-beef-1beaf26f58321683313004493GiniandJonyBoysBlackPrintedSweatshirt1.jpg",
@@ -1905,6 +1992,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.5",
       "reviews": "27",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22013306/2023/2/16/d9666013-5a97-4382-bdec-b281ebdaaf0b1676569847952KUCHIPOOBoysYellow3PrintedExtendedSleevesT-shirt1.jpg",
@@ -1921,6 +2009,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.5",
       "reviews": "6",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21995442/2023/4/19/f2ded630-8b40-4f1a-b659-2bff24c0a1b51681894877858-Cutiekins-Boys-Printed-Shirt-With-Shorts-4241681894877604-5.jpg",
@@ -1937,6 +2026,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23041580/2023/5/5/fbae8130-40db-4833-8af2-458f6f64eac21683291919799CRTeamsKidsT-ShirtI1.jpg",
@@ -1953,6 +2043,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22024408/2023/2/17/e61f0262-c080-4787-a0ce-cbde06316b051676638301727Tshirts1.jpg",
@@ -1969,6 +2060,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.8",
       "reviews": "16",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23173468/2023/5/16/cf786169-8f80-43cb-bd68-131f8513ff131684218325540FASLABoysYellowPrintedOutdoorShorts1.jpg",
@@ -1985,6 +2077,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "5",
       "reviews": "8",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18919932/2023/2/2/d30ed468-4d83-45bf-916e-a011c3f2b3e61675329363065-U-S-Polo-Assn-Kids-Boys-Blue-Relaxed-Fit-Light-Fade-Stretcha-1.jpg",
@@ -2001,6 +2094,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "1.5",
       "reviews": "2",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22946276/2023/4/29/e6512a6f-962c-416b-8158-5ef66c1c224d1682751790297InnerwearVests1.jpg",
@@ -2017,6 +2111,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22353116/2023/3/16/52f784f6-92c8-4fe7-9ba1-adf050606e051678957925136Ed-A-MammaBabyInfantsBoysPackOf3Joggers1.jpg",
@@ -2033,6 +2128,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21888632/2023/3/3/6eb45617-f331-4557-aa07-2c164e2a3a601677842593773-Nike-Boys-Clothing-Set-9791677842593211-1.jpg",
@@ -2049,6 +2145,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.6",
       "reviews": "10",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22447028/2023/3/21/32bd1dc4-fe41-45e9-a12f-2a70ba2bf47016793834119012-piecefootballset1.jpg",
@@ -2065,6 +2162,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20537134/2022/10/28/25f8926e-c0e6-405a-a5ce-fb3f5b17535c1666959203809Jeans1.jpg",
@@ -2081,6 +2179,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "3.9",
       "reviews": "718",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12758932/2020/10/16/109715dc-eef2-4eb5-b184-4150dafc6a6b1602833254052HELLCATBoysOliveGreenPrintedHoodT-shirt1.jpg",
@@ -2097,6 +2196,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20275316/2022/10/6/74ab99e4-5e8a-4ba7-ab34-936dc2f258ad16650310989592-piececottonset1.jpg",
@@ -2113,6 +2213,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/23375208/2023/5/24/63520943-eb34-4ab1-93dd-dfbc367a5d1e1684931933452Sleepsuit1.jpg",
@@ -2129,6 +2230,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "51",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22077172/2023/2/22/f0b4976a-275b-4663-905f-31ec8e2ae02516770280144983-packcottonT-shirts1.jpg",
@@ -2145,6 +2247,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22859152/2023/4/24/7bbecad6-2ada-41bf-a900-d3fbdecb83c01682331262200ClothingSet1.jpg",
@@ -2161,6 +2264,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21923492/2023/2/14/4a8e9925-1286-4d59-86ef-01f8c1c798cc1676372109683JeansNEXTGirlsTrousersNEXTWomenInnerwearVestsNEXTWomenTshirt1.jpg",
@@ -2177,6 +2281,7 @@
     },
     {
       "type": "boys",
+      "category": "bottom_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21244364/2022/12/28/edd5b3d9-4c66-40d5-8003-a991d1afd9231672231370046-NEXT-Boys-Shorts-9521672231369894-1.jpg",
@@ -2193,6 +2298,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "9",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22639192/2023/4/4/cee7f7b3-3e8c-43c1-85fb-b4f131e9cadf1680603339304Shirts1.jpg",
@@ -2209,6 +2315,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.5",
       "reviews": "999",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21871902/2023/5/22/77e62203-391d-4db5-ba4c-55ee70e647f31684752247459-Allen-Solly-Junior-Boys-Shirts-8851684752247105-1.jpg",
@@ -2225,6 +2332,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.6",
       "reviews": "19",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17278308/2023/5/18/3c36c36b-8322-4144-9555-d5287db58c8b1684399904352UTHbyRoadsterBoysGreenYellowStripedPureCottonT-shirt1.jpg",
@@ -2241,6 +2349,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.4",
       "reviews": "174",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14672742/2022/12/9/3d06c440-017e-449e-b74b-fe1e7d4556641670590001998-HERENOW-Boys-Yellow-Floral-Printed-Cotton-Casual-Shirt-77116-1.jpg",
@@ -2257,6 +2366,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "4.3",
       "reviews": "111",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15189730/2021/8/18/ddeaacce-b4a9-4a47-b58e-3105c43285391629291888425VastramayBoysWhiteCottonKurtaPyjamaSet1.jpg",
@@ -2273,6 +2383,7 @@
     },
     {
       "type": "boys",
+      "category": "top_ware",
       "ratings": "3.4",
       "reviews": "10",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21516686/2023/1/12/68090b53-f8ce-4ed8-862d-68d4a5abcd751673507893864UnitedColorsofBenettonBoysMulticolouredCheckedCasualShirt1.jpg",
@@ -2291,6 +2402,7 @@
   "cart": [
     {
       "ratings": 4.2,
+      "category": "top_ware",
       "reviews": "28k",
       "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1996777/2022/11/22/336445a8-fa32-4396-914a-2629b49465d31669112704759RoadsterMenBlackCottonPureCottonT-shirt1.jpg",
       "brand": "Roadster",
