@@ -1,4 +1,11 @@
 {
+  "admins": [
+    {
+      "id": "rinkeshujjwal16@gmail.com",
+      "password": "12345",
+      "name": "Rinkesh"
+    }
+  ],
   "data": [
     {
       "type": "male",
